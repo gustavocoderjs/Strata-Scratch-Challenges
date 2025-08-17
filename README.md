@@ -7,7 +7,7 @@ This repository contains a collection of SQL challenges designed to enhance your
 The project is organized as follows:
 
 - `sql/`: This directory contains SQL scripts for various challenges.
-  - `desafio-strata.sql`: A SQL script that calculates the total revenue from each customer in March 2019, including only active customers who made transactions during that month.
+  - `custumer-revenue-strata.sql`: A SQL script that calculates the total revenue from each customer in March 2019, including only active customers who made transactions during that month.
   - `README.md`: Documentation specific to the SQL challenges, explaining the purpose of the challenges and how to use the SQL files.
 
 - `.gitignore`: This file specifies files and directories that should be ignored by Git, such as temporary files or local configuration files.
