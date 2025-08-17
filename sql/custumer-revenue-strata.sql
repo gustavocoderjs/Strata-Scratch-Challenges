@@ -1,4 +1,4 @@
--- filepath: /strata-sql-challenges/sql/desafio-strata.sql
+
 /*
 Calculate the total revenue from each customer in March 2019.
 Include only customers who were active in March 2019.
